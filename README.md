@@ -1,20 +1,19 @@
-About
+**About**
 
 WordPress Core Developer focused on custom themes, plugins, performance, and system-level development.
 
-Stack
+
+**Stack**
 
 WordPress Core
-
 PHP
-
 JavaScript
-
 MySQL
-
 WP CLI
 
-What This Repo Proves
+
+**What This Repo Proves**
+
 Custom theme development
 Plugin development
 WP hooks system understanding
